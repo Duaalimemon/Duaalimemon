@@ -9,6 +9,8 @@ I also have a strong interest in **Data Science and Machine Learning** using Pyt
 - Python, Django (learning)
 - Git & GitHub
 - Basic Bootstrap / Tailwind CSS
+- Java-OOP
+- C++ 
 
 ## 🌱 Currently Learning
 - Django REST API
