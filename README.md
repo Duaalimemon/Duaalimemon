@@ -27,5 +27,5 @@ I also have a strong interest in **Data Science and Machine Learning** using Pyt
 - 🌐 Portfolio: coming soon...
 - 💼 LinkedIn: [linkedin.com/in/duaalimemon](https://www.linkedin.com/in/dua-alee-memon-a9b0a72a6)
 
-
+ 
 > “Code, Learn, Repeat 💡”
