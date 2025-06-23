@@ -37,7 +37,7 @@
 </p>
 
 
-I'm **Dua Ali Memon**, a passionate **Frontend Developer** who loves building clean user interfaces, exploring the power of **React**, and diving into the world of **Data Science**.  
+I'm **SOFTWARE Engineer**, a passionate **Frontend Developer** who loves building clean user interfaces, exploring the power of **React**, and diving into the world of **Data Science**.  
 Currently learning to build full-stack apps, I'm on a journey to become a well-rounded developer 💡
 
 - 🔭 **Currently Learning:**  
