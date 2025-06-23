@@ -33,7 +33,7 @@
 ## 🔧 About Me
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnozNGxsd3JzdHRoZ3Z2bW5ubDN1eGlrcDhtb2I0NjRhd3pnOXF2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl Coding GIF" width="300" />
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnozNGxsd3JzdHRoZ3Z2bW5ubDN1eGlrcDhtb2I0NjRhd3pnOXF2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl Coding GIF" width="260" />
 </p>
 
 I'm **S O F T W A R E Engineer**, a passionate **Frontend Developer** who loves building clean user interfaces, exploring the power of **React**, and diving into the world of **Data Science**.  
