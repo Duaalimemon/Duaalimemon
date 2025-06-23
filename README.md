@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dua 👋
 
-<!--
-**Duaalimemon/Duaalimemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught web developer currently learning **React** for front-end and **Django** for back-end development.  
+I also have a strong interest in **Data Science and Machine Learning** using Python.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- React JS (in progress)
+- Python, Django (learning)
+- Git & GitHub
+- Basic Bootstrap / Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Django REST API
+- React Hooks & Routing
+- Pandas & NumPy (for Data Science)
+
+## 💻 Projects I'm Working On
+- To-Do List App (React)
+- Blog Website (Django)
+- Portfolio Website
+- 
+## 📫 How to reach me
+- 📧 Email: memonduaa544@gmail.com
+- 🌐 Portfolio: coming soon...
+- 💼 LinkedIn: [linkedin.com/in/duaalimemon](https://www.linkedin.com/in/dua-alee-memon-a9b0a72a6)
+
+
+> “Code, Learn, Repeat 💡”
