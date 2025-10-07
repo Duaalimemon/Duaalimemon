@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/ByteOfMotivation-IKD">
+<a href="https://https://www.youtube.com/@ByteofMotivation-IKD">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
@@ -48,7 +48,7 @@ I'm **S O F T W A R E Engineer**, a passionate **Frontend Developer** who loves 
 Currently learning to build full-stack apps, I'm on a journey to become a well-rounded developer 💡
 
 - 🔭 **Currently Learning:**  
-  Django REST API, React Routing, Pandas & NumPy  
+  Backend Development Technologies 
 - 💻 **Tech Stack:**  
   VS Code, C++, Java, HTML, CSS, JavaScript, Python, OOP, Bootstrap, JQuery, Git, GitHub, Node.js, MySQL, Tailwind CSS  
 - 🌱 **Exploring:**  
