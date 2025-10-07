@@ -117,4 +117,4 @@ Currently learning to build full-stack apps, I'm on a journey to become a well-r
   <h3>"Code smart, learn fast, build big"</h3>
   <p>Passionate about creating impactful digital experiences 💡</p>
 </div>
-> “Code, Learn, Repeat 💡”
+ “Code, Learn, Repeat 💡”
