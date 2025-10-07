@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=facc15&height=190&section=header&text=DUA%20ALI%20MEMON&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Learner%20|%20Exploring%20Data%20Science&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=DUA%20ALI%20MEMON&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Learner%20|%20Exploring%20Data%20Science&descAlignY=55&descAlign=50&color0=facc15&color1=f59e0b" width="100%" />
 
   <p align="center">
     <a href="https://linkedin.com/in/duaalimemon">
@@ -42,7 +42,7 @@ Currently learning to build full-stack apps, I'm on a journey to become a well-r
 - 🔭 **Currently Learning:**  
   Django REST API, React Routing, Pandas & NumPy  
 - 💻 **Tech Stack:**  
-  VS Code, C++, Java, HTML, CSS, JavaScript, Python, OOP, Bootstrap  
+  VS Code, C++, Java, HTML, CSS, JavaScript, Python, OOP, Bootstrap, JQuery, Git, GitHub, Node.js, MySQL, Tailwind CSS  
 - 🌱 **Exploring:**  
   Data Science & API Integration  
 - ✨ **Fun Fact:**  
@@ -56,23 +56,47 @@ Currently learning to build full-stack apps, I'm on a journey to become a well-r
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python" />
+  <img src="https://img.icons8.com/plasticine/48/react.png" title="React" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" />
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS" />
+  <img src="https://img.icons8.com/ios-filled/48/jquery.png" title="JQuery" />
+  <img src="https://img.icons8.com/ios-filled/48/mysql-logo.png" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" />
+  <img src="https://img.icons8.com/ios-filled/48/github.png" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" />
 </p>
+
+<br/>
+
+## 🏆 Achievements
+
+- 🏅 **Hacktoberfest Contributor (2024–2025)**
+- 🚀 **Innovsta Startup Competition – Runner Up**
+- 💡 **Co-Lead**
+
+<br/>
+
+## 🧠 Skills & Expertise
+
+- Leadership & Team Collaboration  
+- Frontend Development (React, JavaScript)  
+- API Integration & Database Management  
+- Problem Solving & Debugging  
+- Communication & Presentation  
+- Co-Lead & Mentoring Experience  
 
 <br/>
 
 ## 📊 GitHub Analytics
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duaalimemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=duaalimemon&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaalimemon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="44%" />
@@ -81,8 +105,8 @@ Currently learning to build full-stack apps, I'm on a journey to become a well-r
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=facc15&height=120&section=footer" width="100%" />
-  <h3>"Code smart, learn fast, build big. 🚀"</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&color0=facc15&color1=f59e0b" width="100%" />
+  <h3>"Code smart, learn fast, build big"</h3>
+  <p>Passionate about creating impactful digital experiences 💡</p>
 </div>
-
 > “Code, Learn, Repeat 💡”
