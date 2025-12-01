@@ -47,6 +47,9 @@
 I'm **S O F T W A R E Engineer**, a passionate **Frontend Developer** who loves building clean user interfaces, exploring the power of **React**, and diving into the world of **Data Science**.  
 Currently learning to build full-stack apps, I'm on a journey to become a well-rounded developer 💡
 
+## My Holpin Badges \
+[![An image of @duaalimemon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/duaalimemon)](https://holopin.io/@duaalimemon)
+
 - 🔭 **Currently Learning:**  
   Backend Development Technologies 
 - 💻 **Tech Stack:**  
