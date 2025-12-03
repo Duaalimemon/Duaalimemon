@@ -12,7 +12,7 @@
 ## 🔗 Connect & Profile Status
 
 <p align="center">
-    <a href="https://linkedin.com/in/duaalimemon">
+    <a href="https://www.linkedin.com/in/dua-alee-memon-a9b0a72a6/">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:memonduaa544@gmail.com">
