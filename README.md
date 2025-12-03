@@ -86,7 +86,7 @@ I'm a **Software Engineer** and passionate **MERN Full-Stack Developer** with a 
 
 ### My Certifications & Recognition
 <p align="center">
-    [![Holopin badges](https://holopin.me/duaalimemon)](https://holopin.io/@duaalimemon)
+    [![Holopin badges](https://holopin.me/duaalimemon)]
 </p>
 
 ---
