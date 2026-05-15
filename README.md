@@ -117,5 +117,5 @@ Goals:
 </div>
 
 <div align="center">
-🌌 “Code • Create • Innovate”
+🌌 “Examine • Code • Problem_solved”
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/> </div> ```
