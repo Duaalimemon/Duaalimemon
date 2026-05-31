@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=220&section=header&text=Dua%20Ali%20Memon&fontSize=48&fontColor=f8fafc&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Engineer:AI+Engineer;Building+Real-World+Solutions;Exploring+Backend+Systems;Passionate+About+Clean+UI%2FUX" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Engineer;AI+Engineer;Building+Real-World+Solutions;Exploring+Backend+Systems;Passionate+About+Clean+UI%2FUX" />
 
 </div>
 
